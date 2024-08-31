@@ -1,4 +1,4 @@
-# WooCommerce Product Registration / WooCommerce产品注册
+WooCommerce Product Registration with Serial Numbers / WooCommerce使用序列号注册产品
 
 [English](#english) | [中文](#中文)
 
