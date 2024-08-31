@@ -27,6 +27,18 @@ WooCommerce Product Registration is a WordPress plugin that allows customers to 
 - Add the `[product_registration_form]` shortcode to any page where you want the registration form to appear.
 - Add the `[user_registered_products]` shortcode to display a user's registered products.
 
+### Important Note for Administrators
+When uploading serial numbers in the admin panel:
+
+File format: Only .xlsx and .csv files are accepted.
+File content format:
+
+Do not include column headers.
+Start from the first row with serial number data.
+First column: Serial number
+Second column: WooCommerce product ID
+Each serial number should occupy one row.
+
 ### Requirements
 - WordPress 5.0 or higher
 - WooCommerce 3.0 or higher
@@ -62,6 +74,18 @@ WooCommerce产品注册是一个WordPress插件，允许客户使用序列号注
 ### 使用方法
 - 在任何您想要显示注册表单的页面上添加`[product_registration_form]`短代码。
 - 添加`[user_registered_products]`短代码以显示用户已注册的产品。
+
+### 管理员使用注意事项
+在后台上传序列号文件时：
+
+文件格式：仅接受.xlsx和.csv格式。
+文件内容格式：
+
+不需要有列名。
+从第一行开始就是序列号资料。
+第一列是序列号内容。
+第二列是WooCommerce产品ID。
+每一个序列号占一行。
 
 ### 要求
 - WordPress 5.0或更高版本
