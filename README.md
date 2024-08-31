@@ -1,6 +1,6 @@
 # WooCommerce Product Registration / WooCommerce产品注册
 
-[English](##english) | [中文](##中文)
+[English](#english) | [中文](#中文)
 
 ## English
 
